@@ -1,4 +1,4 @@
-package com.pamokos.trecia;
+package com.pamokos.penkta;
 
 import java.io.FileWriter;
 import java.util.Scanner;
