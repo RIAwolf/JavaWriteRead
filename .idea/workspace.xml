@@ -17,7 +17,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
@@ -37,10 +37,10 @@
         </entry>
       </file>
       <file leaf-file-name="Irasymas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Irasymas.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Irasymas.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <caret line="21" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#265#266#0" expanded="true" />
@@ -51,7 +51,7 @@
         </entry>
       </file>
       <file leaf-file-name="Skaitymas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Skaitymas.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Skaitymas.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-417">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
@@ -83,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/com/pamokos/trecia/Irasymas.java" />
         <option value="$PROJECT_DIR$/src/com/pamokos/trecia/Skaitymas.java" />
         <option value="$PROJECT_DIR$/src/com/pamokos/trecia/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/pamokos/penkta/Main.java" />
       </list>
     </option>
   </component>
@@ -135,7 +136,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="trecia" />
+              <option name="myItemId" value="penkta" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -153,7 +154,7 @@
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.pamokos.trecia.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pamokos.penkta.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -481,7 +482,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Skaitymas.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Skaitymas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-417">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
@@ -492,10 +493,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Irasymas.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Irasymas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <caret line="21" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
@@ -504,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pamokos/trecia/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pamokos/penkta/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
