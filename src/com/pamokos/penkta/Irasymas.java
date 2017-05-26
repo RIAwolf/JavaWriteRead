@@ -21,27 +21,17 @@ public class Irasymas {
 
     }
 
-    public void atidarytiFaila() {
-        try {
-            _out = new FileWriter(_failoVardas);
-        } catch (Exception e) {
-
-        }
-    }
-
     public void irasymasIFaila() {
         System.out.println("Iveskite teksta ka rasysite i faila");
         System.out.println("parasius pabaiga irasymas bus nutrauktas");
         String tekstas = _sc.nextLine();
-        while (!tekstas.equals("pabaiga")) {
-            try {
+        try {
+            _out = new FileWriter(_failoVardas);
+            while (!tekstas.equals("pabaiga")) {
                 _out.write(tekstas);
                 _out.write('\n');
-            } catch (Exception e) {
+                tekstas = _sc.nextLine();
             }
-            tekstas = _sc.nextLine();
-        }
-        try {
             _out.close();
         } catch (Exception e) {
         }

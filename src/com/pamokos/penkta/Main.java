@@ -7,7 +7,6 @@ public class Main {
         Irasymas objektas = new Irasymas();
 
         objektas.paklausimas();
-        objektas.atidarytiFaila();
         objektas.irasymasIFaila();
 
 
